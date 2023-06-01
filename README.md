@@ -21,9 +21,11 @@ which is recommended after a fresh, clean install of Windows for best latency, p
 - SPEED UP YOUR SYSTEM & NETWORK (STATIC IP)
 - UNINSTALL UWP APPS
 
-<hr>
-https://github.com/DekuCS/Dekus-Optimizer/releases
+<hr><hr>
+
 ### ⬇️ Downloads:
+
+https://github.com/hellzerg/optimizer/releases
 
 <hr>
 
