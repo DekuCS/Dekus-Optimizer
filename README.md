@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/DekuCS/Dekus-Optimizer/releases/download/1.0/DekusOptimizer-1.0.exe" target="_blank">
-		<img src="https://raw.githubusercontent.com/DekuCS/Dekus-Optimizer/images/download-button.png">
+		<img src="https://raw.githubusercontent.com/DekuCS/Dekus-Optimizer/main/images/download-button.png">
 </p>
 
 ### ℹ️ Summary:
